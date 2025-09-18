@@ -10,20 +10,3 @@ We’ll go step by step:
 
 This is a complete End-to-End Machine Learning Project in Python — perfect for students, beginners, and anyone looking to add an AI + Healthcare project to their portfolio.
 
-✨ By the end, you’ll learn how to:
-
-Collect and preprocess medical data
-
-Train a model to detect diseases from symptoms
-
-Build a chatbot interface (with follow-up questions & advice)
-
-Integrate AI into a user-friendly healthcare solution
-
-📌 Technologies used: Python, Scikit-learn, Pandas, NLP, Machine Learning
-
-💬 If you’re a beginner in ML/AI, this project will help you understand how to turn an idea into a working application.
-
-🔔 Subscribe for more AI, ML, and Python projects: @souvikchai
-
-📢 Share this project with your friends who are into Data Science & Healthcare AI!
