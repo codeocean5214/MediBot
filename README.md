@@ -8,5 +8,4 @@ We’ll go step by step:
 ✅ Disease prediction with confidence score
 ✅ Giving precautions, health tips, and an end motivational quote 💬
 
-This is a complete End-to-End Machine Learning Project in Python — perfect for students, beginners, and anyone looking to add an AI + Healthcare project to their portfolio.
 
